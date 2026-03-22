@@ -1,0 +1,20 @@
+# Virtual Environment (Very bulky, never upload)
+venv/
+ENV/
+env/
+
+# Python Cache (Temporary files)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database (Private data)
+*.db
+*.sqlite3
+
+# Secrets (API keys and passwords)
+.env
+
+# IDE settings
+.vscode/
+.idea/
